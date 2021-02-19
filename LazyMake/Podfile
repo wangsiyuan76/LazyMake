@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+target 'LazyMake' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+#
+   pod 'ZFDownload'
+   pod 'AFNetworking'
+   pod 'Masonry'
+   pod 'YYKit'
+   pod 'MBProgressHUD'
+   pod 'MJRefresh'
+   pod 'SDWebImage'
+   pod 'SSZipArchive'
+   
+#   pod 'UMCCommon'
+#   pod 'UMCSecurityPlugins'
+#   pod 'UMCAnalytics'
+#   pod 'UMCPush'
+#   pod 'UMCShare/Social/QQ'
+#   pod 'UMCCommonLog'
+#   pod 'UMCShare/Social/WeChat'
+#   pod 'DouyinOpenSDK', '~> 3.0.0'
+	
+  
+#other
+  pod 'XDTextBtnView'
+end

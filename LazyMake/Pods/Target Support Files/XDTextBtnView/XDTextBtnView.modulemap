@@ -1,0 +1,6 @@
+framework module XDTextBtnView {
+  umbrella header "XDTextBtnView-umbrella.h"
+
+  export *
+  module * { export * }
+}

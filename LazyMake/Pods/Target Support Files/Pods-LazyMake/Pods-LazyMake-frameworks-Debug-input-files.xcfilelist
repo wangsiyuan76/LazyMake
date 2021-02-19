@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-LazyMake/Pods-LazyMake-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/ASIHTTPRequest/ASIHTTPRequest.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework
+${BUILT_PRODUCTS_DIR}/XDTextBtnView/XDTextBtnView.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework
+${BUILT_PRODUCTS_DIR}/ZFDownload/ZFDownload.framework
